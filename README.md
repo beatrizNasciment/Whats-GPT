@@ -3,9 +3,6 @@
 
 A integração permitirá que usuários interajam com o ChatGPT através de mensagens de texto no WhatsApp, fornecendo respostas automatizadas baseadas em suas perguntas e comandos.
 
-
-![Imagem gerada no Midjourney](https://miro.medium.com/max/720/1*0K0tAo1ujQoFa9NG3ClIdw.webp)
-
 ## Tecnologias
 
 - [OpenIA](https://beta.openai.com/)
